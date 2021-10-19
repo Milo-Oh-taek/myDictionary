@@ -1,0 +1,106 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "cup",
+      "kor": "컵",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 2,
+      "eng": "perfume",
+      "kor": "향수",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 3,
+      "eng": "pen",
+      "kor": "펜",
+      "isDone": false
+    },
+    {
+      "day": "2",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "3",
+      "eng": "monitor",
+      "kor": "모니터",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "1",
+      "eng": "speaker",
+      "kor": "스피커",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "4",
+      "eng": "dog",
+      "kor": "개",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "3",
+      "eng": "wallpaper",
+      "kor": "벽지",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "1",
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "2",
+      "eng": "creditcard",
+      "kor": "신용카드",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "4",
+      "eng": "guitar",
+      "kor": "기타",
+      "isDone": false,
+      "id": 13
+    }
+  ]
+}
